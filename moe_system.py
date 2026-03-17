@@ -58,7 +58,7 @@ class MoEAgentSystem:
 # --- 运行测试 ---
 if __name__ == "__main__":
     # 配置区：请在此处填写你的 API Key 和 Base URL
-    MY_API_KEY = "sk-e9905b9132c8484c9355cef201e2d03e"
+    MY_API_KEY = "your_api key"
     MY_BASE_URL = "https://api.deepseek.com"  # 如果用DeepSeek请换成 https://api.deepseek.com
     MY_MODEL = "deepseek-chat"  # 如果用DeepSeek请换成 deepseek-chat
 
